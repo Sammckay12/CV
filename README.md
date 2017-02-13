@@ -11,7 +11,7 @@ I am looking for a Full Stack Junior Developer role where every day poses new ch
 
 Seems like a very vague term to me. Banded around as a buzz word to catch an employers attention. However, to me it means analysing all available options before deciding the best course of action rather than charging in at the first 'light-bulb' moment.
 
-Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are the benefits all too apparent.
+Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that now all too apparent.
 
 
 #### Another Skill
