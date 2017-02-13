@@ -48,4 +48,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Main focus on the Private Equity, Property and Property Multi-Manager businesses.  
 **Toscafund** (Aug'11 to May'12)   
 *Research Analyst* :
-Aiding with the research for the hedge funds main discussions paper; Britain's Got Growth. After being invited to join the team by Chief Economist Dr. Savvas Savouri after seeking help for my university dissertation.
+Aiding with the research for the hedge funds main discussions paper; Britain's Got Growth. I was invited to join the research team by Chief Economist Dr Savvas Savouri having previously sent him my university dissertation for comment.
