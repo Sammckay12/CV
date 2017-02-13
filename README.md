@@ -1,4 +1,4 @@
-## Your Name
+## Sam McKay
 
 I am a former Business Analyst who one day woke up to the realisation that offering possible solutions to multiple problems would never be as satisfying as implementing the solution in the problem-solving process. Less talking and more doing, as they say.
 
