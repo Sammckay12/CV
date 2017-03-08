@@ -2,7 +2,9 @@
 
 I am a former Business Analyst who one day woke up to the realisation that offering possible solutions to multiple problems would never be as satisfying as implementing the solution in the problem-solving process. Less talking and more doing, as they say.
 
-I am looking for a Full Stack Junior Developer role where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
+My ideal position would be working as a Full Stack Junior Developer where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
+
+DAY 1 VALUE
 
 
 ## Skills
@@ -11,10 +13,14 @@ I am looking for a Full Stack Junior Developer role where every day poses new ch
 
 Seems like a very vague term to me. Banded around as a buzz word to catch an employers attention. However, to me it means analysing all available options before deciding the best course of action rather than charging in at the first 'light-bulb' moment.
 
-Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that now all too apparent.
+Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that are now all too apparent.
 
 
 #### Another Skill
+Personable - interpersonal skills - Communication skills
+
+Team player
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -36,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Exeter (Sep'08 to Jun'11)
 
 - Business Economics, BA (Hons), 2.1
-- Dissertation: 'The future of the UK in an Asian dominated global economy'. Although far from perfect it remains something that I am particularly proud of!
+- Dissertation: The future of the UK in an Asian dominated global economy. Although far from perfect it remains something that I am particularly proud of!
 
 
 #### Any other qualifications
