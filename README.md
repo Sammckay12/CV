@@ -2,7 +2,7 @@
 
 I am a former Business Analyst who one day woke up to the realisation that offering possible solutions to multiple problems would never be as satisfying as implementing the solution in the problem-solving process. Less talking and more doing, as they say.
 
-My ideal position would be working as a Full Stack Junior Developer where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
+My ideal position would be working as a Back End Junior Developer where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
 
 DAY 1 VALUE
 
@@ -11,7 +11,7 @@ DAY 1 VALUE
 
 #### Problem Solving
 
-Seems like a very vague term to me. Banded around as a buzz word to catch an employers attention. However, to me it means analysing all available options before deciding the best course of action rather than charging in at the first 'light-bulb' moment.
+<!-- Seems like a very vague term to me. Banded around as a buzz word to catch an employers attention. However, to me it means analysing all available options before deciding the best course of action rather than charging in at the first 'light-bulb' moment. -->
 
 Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that are now all too apparent.
 
@@ -24,14 +24,13 @@ Outside of the workspace I see myself as a very approachable and personable pers
 
 
 
-#### Another Skill
+#### Enthusiastic
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Never phased by the potential size of a problem, enthusiasm plays an imperative role in dispersing any feelings that you may be out of your depth or daunted by the size of a task.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+<!-- As a large part of time for a junior developer is spent solving bugs and following the flow through error messages, there is nothing like a healthy dose of enthusiasm to not let your head drop and keep going with high spirits when the bug is being particularly sneaky!  -->
+
+
 
 ## Education
 #### Makers Academy (Jan'17 to Apr'17)
@@ -46,10 +45,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Exeter (Sep'08 to Jun'11)
 
 - Business Economics, BA (Hons), 2.1
-- Dissertation: The future of the UK in an Asian dominated global economy. Although far from perfect it remains something that I am particularly proud of!
+- Dissertation: The future of the UK in an Asian dominated global economy. Perhaps by luck more so than judgement, but the accuracy of the forecasts are something that I am particularly proud of!
 
-
-#### Any other qualifications
 
 ## Experience
 
@@ -59,3 +56,10 @@ Main focus on the Private Equity, Property and Property Multi-Manager businesses
 **Toscafund** (Aug'11 to May'12)   
 *Research Analyst* :
 Aiding with the research for the hedge funds main discussions paper; Britain's Got Growth. I was invited to join the research team by Chief Economist Dr Savvas Savouri having previously sent him my university dissertation for comment.
+
+
+## Hobbies and Interests
+
+- Football : Been apart of a team since the age of 6. Nothing like a football game to clear the mind. Meditation at its best. Captain of old school alumni team.
+- Sport : Football is worthy of its own bullet point but all-round sports enthusiast including; skiing, rugby, basketball, tennis, cricket and horse-racing (if that counts as sport!)
+-    
