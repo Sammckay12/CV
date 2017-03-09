@@ -16,11 +16,15 @@ Seems like a very vague term to me. Banded around as a buzz word to catch an emp
 Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that are now all too apparent.
 
 
+#### Communication
+
+Being able to translate complex problems into a concise and easy to follow statement is key to being able to reach a solution to the problem you are facing.
+
+Outside of the workspace I see myself as a very approachable and personable person who enjoys meeting new people and the social side of life. This adds value in the working environment as people are more comfortable around you and aids collaboration and a good team ethos.
+
+
+
 #### Another Skill
-Personable - interpersonal skills - Communication skills
-
-Team player
-
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
