@@ -11,8 +11,6 @@ DAY 1 VALUE
 
 #### Problem Solving
 
-<!-- Seems like a very vague term to me. Banded around as a buzz word to catch an employers attention. However, to me it means analysing all available options before deciding the best course of action rather than charging in at the first 'light-bulb' moment. -->
-
 Honing in on the specific underlying business problem is a skill that perhaps I may not have even valued highly enough at the time of acquiring it. My previous line manager would always enforce the idea of separating problems from solutions as the business would reel off their requirements. Now approaching problems from the software engineering perspective the efficiency gains and even being able to identify the task at hand are benefits that are now all too apparent.
 
 
@@ -28,7 +26,7 @@ Outside of the workspace I see myself as a very approachable and personable pers
 
 Never phased by the potential size of a problem, enthusiasm plays an imperative role in dispersing any feelings that you may be out of your depth or daunted by the size of a task.
 
-<!-- As a large part of time for a junior developer is spent solving bugs and following the flow through error messages, there is nothing like a healthy dose of enthusiasm to not let your head drop and keep going with high spirits when the bug is being particularly sneaky!  -->
+As a large part of time for a junior developer is spent solving bugs and following the flow through error messages, there is nothing like a healthy dose of enthusiasm to not let your head drop and keep going with high spirits when the bug is being particularly sneaky!
 
 
 
@@ -60,6 +58,6 @@ Aiding with the research for the hedge funds main discussions paper; Britain's G
 
 ## Hobbies and Interests
 
-- Football : Been apart of a team since the age of 6. Nothing like a football game to clear the mind. Meditation at its best. Captain of old school alumni team.
+- Football : Been a part of a team since the age of 6. Nothing like a football game to clear the mind. Meditation at its best. Captain of old school alumni team.
 - Sport : Football is worthy of its own bullet point but all-round sports enthusiast including; skiing, rugby, basketball, tennis, cricket and horse-racing (if that counts as sport!)
-- Charity : Regularly helping out at events and raising money for Bloodwise (Leukaemia & Lymphoma Research). Part of the the largest fundraising team at the London Bikeathon raising over £14,000. 
+- Charity : Regularly helping out at events and raising money for Bloodwise (Leukaemia & Lymphoma Research). Part of the the largest fundraising team at the London Bikeathon raising over £14,000.
