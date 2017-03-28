@@ -32,10 +32,12 @@ As a large part of time for a junior developer is spent solving bugs and followi
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, React
+- Rspec, Jasmine, Mocha, Jest, Enzyme
+
+Final project spent on making a facial recognition app that hooks into a webcam, analyses photos for phases and returns emotional scores based on those faces, built using React, Microsost Cogninitive Services for the emotional amalysis and LIFX to have a light bulb change colour depending on the emotion in the room!
 
 #### University of Exeter (Sep'08 to Jun'11)
 
