@@ -2,10 +2,7 @@
 
 I am a former Business Analyst who one day woke up to the realisation that offering possible solutions to multiple problems would never be as satisfying as implementing the solution in the problem-solving process. Less talking and more doing, as they say.
 
-My ideal position would be working as a Back End Junior Developer where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
-
-DAY 1 VALUE
-
+My ideal position would be working as a Full Stack Junior Developer where every day poses new challenges that put my analytical and problem-solving skills to the test. An energetic and teamwork focused environment that enables growth both on a technical level and within the personal development sphere.
 
 ## Skills
 
@@ -61,3 +58,4 @@ Aiding with the research for the hedge funds main discussions paper; Britain's G
 - Football : Been a part of a team since the age of 6. Nothing like a football game to clear the mind. Meditation at its best. Captain of old school alumni team.
 - Sport : Football is worthy of its own bullet point but all-round sports enthusiast including; skiing, rugby, basketball, tennis, cricket and horse-racing (if that counts as sport!)
 - Charity : Regularly helping out at events and raising money for Bloodwise (Leukaemia & Lymphoma Research). Part of the the largest fundraising team at the London Bikeathon raising over £14,000.
+- London social scene : Always up for finding the smallest gigs at undiscovered venues along with basement bars and all the foodie delights it has to offer!
