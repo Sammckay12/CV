@@ -32,7 +32,7 @@ As a large part of time for a junior developer is spent solving bugs and followi
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
+- OOP, TDD, MVC
 - Software Craftsmanship
 - Ruby, Rails, Javascript, React
 - Rspec, Jasmine, Mocha, Jest, Enzyme
